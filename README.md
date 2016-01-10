@@ -27,3 +27,15 @@ How can the application be improved:
   4. Secure the data transmitted over internet (SSL)
   5. Implement protection mechanisms against wide-known attacks (DDoS, bruteforce etc.)
   6. Verify data during input in order to avoid internal errors.
+
+
+### Task #3
+
+Define sequence diagrams of these 4 oAuth features:
+* register;
+* login;
+* get statistics. History of user's tokens requests (logins);
+* one more.
+
+1. Register and login:
+![alt tag](http://i.imgur.com/lnE2Gr9.png)
