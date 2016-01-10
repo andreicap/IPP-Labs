@@ -36,6 +36,7 @@ Define sequence diagrams of these 4 oAuth features:
 * login;
 * get statistics. History of user's tokens requests (logins);
 * one more.
-
+  
 1. Register and login:
+  
 ![alt tag](http://i.imgur.com/lnE2Gr9.png)
