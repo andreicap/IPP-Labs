@@ -37,6 +37,10 @@ Define sequence diagrams of these 4 oAuth features:
 * get statistics. History of user's tokens requests (logins);
 * one more.
   
-1. Register and login:
-  
+**1. 2. Register and login:**
+
 ![alt tag](http://i.imgur.com/lnE2Gr9.png)
+  
+**3. Get statistics: **
+![alt tag](http://i.imgur.com/mriYfss.png)
+[Source Link](http://www.websequencediagrams.com/?lz=dGl0bGUgQXV0aG9yaXphdGlvbiBDb2RlIChyZWdpc3RyAA0GJiBsb2dpbikKCgpwYXJ0aWNpcGFudCAiVXNlciIgYXMgVQAKDlJlc291cmNlIE93bgAbB1JPAC0OAGYOU2VydgBEB0FTAFYORGF0YWJhc2UAYwVEQgoKClUtPitBUzogRXhjaGFuZ2UAgSwGZm9yIEFjY2VzcyBUb2tlbgpub3RlIG92ZXIgQVM6IGFwcF9pZCwgZW1haWwsIHVzZXIKQVMtLT4-LVU6ACsOClUtLT4rREI6IFJlcXVlc3QgVXNlciBTdGF0aXN0aWNzAFALREI6IEdlbmVyYXRlABsHY3RpY3MgSlNPTi9YTUwKREIAXQhTZW5kAEYFcwBCCgoKbG9vcACBTgVEQjogQ2FsbCBBUEkgdXNpbmcAgUIOAD8KUmVzcG9uc2Ugd2l0aCBEYXRhCmVuZA&s=qsd)
